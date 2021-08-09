@@ -1,2 +1,2 @@
 # raywenderlichtutorials
-Tutorials from https://www.raywenderlich.com/1
+Tutorials from https://www.raywenderlich.com/
